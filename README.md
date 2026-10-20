@@ -27,8 +27,7 @@ I specialize in building responsive, efficient, and user-centric web application
 ### Featured Projects
 
 #### Overdose
-- A full-stack web application designed to solve [insert specific problem, e.g., task automation / user workflow management]. Features a modular backend architecture and responsive user interface.
-- **Tech Stack:** Node.js, Express.js, JavaScript, RESTful APIs
+- Overdose is a comprehensive, campus-exclusive web application engineered to solve one of the most persistent hurdles in modern collegiate life: academic fragmentation and deadline chaos.
 - **Status:** Deployment in progress
 - **Links:** [Repository](https://github.com/SulLightAnony/overdose) | Live Demo (Coming Soon)
 
