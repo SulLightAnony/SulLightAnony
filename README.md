@@ -1,7 +1,7 @@
 # Sulthan Faazaa Akbar Riyandoro (Almusayid)
 ### Full-Stack Web Developer
 
-I specialize in building responsive, efficient, and user-centric web applications. Passionate about writing clean, maintainable code, developing reliable backend services, and integrating robust RESTful APIs to deliver scalable digital solutions. Check out my portfolio website: [![Live Production](https://sullightanony.github.io/portfolio/)]
+I specialize in building responsive, efficient, and user-centric web applications. Passionate about writing clean, maintainable code, developing reliable backend services, and integrating robust RESTful APIs to deliver scalable digital solutions. Check out my portfolio website: [![Live Production](https://img.shields.io/badge/Live_Website-trimegahkn.com-2EA44F?style=flat-square&logo=googlechrome&logoColor=white)](https://sullightanony.github.io/portfolio/)
 
 ---
 
